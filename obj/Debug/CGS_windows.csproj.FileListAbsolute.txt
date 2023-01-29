@@ -1,0 +1,16 @@
+C:\Users\mosik\source\C2\CGS_windows\bin\Debug\CGS_windows.exe.config
+C:\Users\mosik\source\C2\CGS_windows\bin\Debug\CGS_windows.exe
+C:\Users\mosik\source\C2\CGS_windows\bin\Debug\CGS_windows.pdb
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.csproj.AssemblyReference.cache
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.login.resources
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.mainForm.resources
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.Properties.Resources.resources
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.csproj.GenerateResource.cache
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.csproj.CoreCompileInputs.cache
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.csproj.CopyComplete
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.exe
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.pdb
+C:\Users\mosik\source\C2\CGS_windows\bin\Debug\GCS_ClassLibrary.dll
+C:\Users\mosik\source\C2\CGS_windows\bin\Debug\GCS_ClassLibrary.pdb
+C:\Users\mosik\source\C2\CGS_windows\obj\Debug\CGS_windows.sellForm.resources

@@ -1,0 +1,1 @@
+PieceID: 22222 CuratorID: 12345 ArtistID: 23456 Title: edw Year: 1999 Value: 50 Estimate: 0 Status: D
